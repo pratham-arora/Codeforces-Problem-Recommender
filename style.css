@@ -1,17 +1,18 @@
 div {
 	display: inline;
 	color: yellow;
-	margin: 20px;
+	margin: 10px;
 }
 nav {
 	display: inline;
 	font: inherit;
+	margin: 0.5px;
 }
 header {
 	background: blue;
 	color: white;
 	display: flex;
-	padding: 5px;
+	padding: 3px;
 }
 body {
 	background: black;
@@ -26,4 +27,20 @@ button {
 }
 a {
 	color : white;
+}
+
+gr {
+	color : green;
+}
+
+blu {
+	color : blue;
+}
+
+red {
+	color :red;
+}
+
+violet {
+	color :violet;
 }
